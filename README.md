@@ -56,8 +56,6 @@ Then open: [http://localhost:8501](http://localhost:8501)
 
 ### 🔹 Interface
 
-*Add a screenshot here to showcase the main Streamlit UI:*
-
 
 ![SecureDataGPT UI Screenshot](assets/securedata_ui.png)
 
@@ -132,5 +130,6 @@ It’s a showcase of how LLMs can assist in responsible AI practices — detecti
 ## 🪄 License
 
 This project is released under the MIT License.
+
 
 
